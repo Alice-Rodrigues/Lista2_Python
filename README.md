@@ -127,7 +127,7 @@ Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapass
 
 **28.** O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira:
 
-                         Até 5 Kg           Acima de 5 Kg
+                             Até 5 Kg           Acima de 5 Kg
         File Duplo      R$ 4,90 por Kg          R$ 5,80 por Kg
         Alcatra         R$ 5,90 por Kg          R$ 6,80 por Kg
         Picanha         R$ 6,90 por Kg          R$ 7,80 por Kg
